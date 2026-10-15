@@ -14,6 +14,6 @@ dice-sphincs是一个机器人骰子项目
 ```bash
 # 克隆仓库
 git clone git@github.com:GuoBaoqi/dice-sphincs.git
-cd myapp
+cd dice-sphincs
 ## 协议
 本项目遵循GPL-3.0协议开源
