@@ -1,0 +1,30 @@
+# 构建产物
+build/
+cmake-build-*/
+compile_commands.json
+
+# 敏感配置
+.env
+.env.local
+
+# 编辑器
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+
+# Python（mock 服务器）
+__pycache__/
+*.pyc
+.venv/
+
+# 运行期数据
+data/
+logs/
+backups/
+*.db
+*.log
